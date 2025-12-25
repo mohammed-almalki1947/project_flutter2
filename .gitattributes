@@ -1,3 +1,5 @@
 *.cmake linguist-vendored
 android/** linguist-vendored
 ios/** linguist-vendored
+build/** linguist-vendored
+.git/** linguist-vendored
